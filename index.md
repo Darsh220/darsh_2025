@@ -5,4 +5,5 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here. - Kicking projects 2.000slkdhs;ldjkfdsa;lfkjdsa
+My journey starts here. - Kicking projects 2.0
+
