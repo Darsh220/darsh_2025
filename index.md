@@ -6,4 +6,4 @@ hide: true
 ---
 
 My journey starts here. - Kicking projects 2.0
-
+<img src="./images/indiaflag.png" alt="India Flag">
