@@ -6,7 +6,10 @@ permalink: /about/
 
 # Creator of Student 2025 Im Darsh and Im 17 years old
 
-%%html
+
+I have lived in these places my whole life 
+
+Flags Source - Wikipedia Images
 
 <style>
     /* Style looks pretty compact, trace grid-container and grid-item in the code */
@@ -40,8 +43,8 @@ permalink: /about/
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/02/Flag_of_India.svg", "greeting": "Namaste", "description": "I have lived here for 7 months"},
-        {"flag": "0/03/Flag_of_Singapore.svg", "greeting": "Ni Hao", "description": "I have lived here for my whole life pretty much"},
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Namaste", "description": "I have lived here for 7 months"},
+        {"flag": "4/48/Flag_of_Singapore.svg", "greeting": "Ni Hao", "description": "I have lived here for my whole life pretty much"},
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "I have lived here for about one and a half years now"},
 
 
@@ -78,3 +81,22 @@ permalink: /about/
         container.appendChild(gridItem);
     }
 </script>
+
+My life so far
+Here are all the things that I have done before coming here and what I did in those places. 
+
+India
+ - I have lived here for around 7 months and I started the foundation of my education here
+ - I developed my love for Badminton and Soccer and learnt the necessary skills needed to support my learning in school. 
+
+
+Singapore
+ - I have lived here for the majority of my life and have grown up with many different and cool people. 
+ - I have also developed my badminton skills and have grown to a significant level and most of my school education was also done here and it is my favorite place to visit right after Europe
+ - The food in singapore is TOP TIER!!! and is very very popular and this was also the best part of my life in singapore. 
+
+ 
+ California
+ - I have just recently moved to here and I love the weather as it is sunny and pleasant almost all year round. 
+ - I really like the people I met and enjoy the vast amount of opportunities here.
+ - I also became an advanced level badminton player and was able to culminate my skills here. 
