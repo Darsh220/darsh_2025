@@ -5,5 +5,5 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here. - Kicking projects 2.0
+India Flag
 <img src="./images/indiaflag.png" alt="India Flag">
