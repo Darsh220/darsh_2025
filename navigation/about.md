@@ -6,12 +6,6 @@ permalink: /about/
 
 # Im Darsh and Im 17 years old
 
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
 
 
 I have lived in these places my whole life 
