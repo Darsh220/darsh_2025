@@ -83,24 +83,38 @@ Flags Source - Wikipedia Images
     }
 </script>
 
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p3 {
+  font-family: "Times New Roman", Times, serif;
+}
+</style>
+
+
 My life so far
 Here are all the things that I have done before coming here and what I did in those places. 
-
-India
+<h1>CSS font-family</h1>
+<p class="p1"></p>India
  - I have lived here for around 7 months and I started the foundation of my education here
- - I developed my love for Badminton and Soccer and learnt the necessary skills needed to support my learning in school. 
-
-
-Singapore
+ - I developed my love for Badminton and Soccer and learnt the necessary skills needed to su
+<p class="p2">Singapore
  - I have lived here for the majority of my life and have grown up with many different and cool people. 
  - I have also developed my badminton skills and have grown to a significant level and most of my school education was also done here and it is my favorite place to visit right after Europe
- - The food in singapore is TOP TIER!!! and is very very popular and this was also the best part of my life in singapore. 
-
- 
- California
+ - The food in singapore is TOP TIER!!! and is very very popular and this was also the best part of my life in singapore. </p>
+<p class="p3">California
  - I have just recently moved to here and I love the weather as it is sunny and pleasant almost all year round. 
  - I really like the people I met and enjoy the vast amount of opportunities here.
- - I also became an advanced level badminton player and was able to culminate my skills here. 
+ - I also became an advanced level badminton player and was able to culminate my skills here. </p>
+
+
+
 
 
 
@@ -131,7 +145,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg">
-    <img src="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg" alt="Singapore" width="600" height="400">
+    <img src="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg" alt="Singapore" width="600" height="350">
   </a>
   <div class="desc">Singapore is the best</div>
 </div>
