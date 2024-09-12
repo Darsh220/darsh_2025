@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Welcome To My Page 
 description: Home Page
 hide: true
 ---
