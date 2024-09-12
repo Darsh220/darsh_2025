@@ -101,3 +101,61 @@ Singapore
  - I have just recently moved to here and I love the weather as it is sunny and pleasant almost all year round. 
  - I really like the people I met and enjoy the vast amount of opportunities here.
  - I also became an advanced level badminton player and was able to culminate my skills here. 
+
+
+
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+
+
+
+<div class="gallery">
+  <a target="_blank" href="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg">
+    <img src="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg" alt="Singapore" width="600" height="400">
+  </a>
+  <div class="desc">Singapore is considered one of the best and the most efficient places to live</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://i.natgeofe.com/k/42e832f5-fd48-43ff-b338-091bdf4048ca/india-tajmahal_16x9.jpg?w=1200">
+    <img src="https://i.natgeofe.com/k/42e832f5-fd48-43ff-b338-091bdf4048ca/india-tajmahal_16x9.jpg?w=1200" alt="India" width="600" height="400">
+  </a>
+  <div class="desc">India is one of the most populated countries in the world</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://ktla.com/wp-content/uploads/sites/4/2023/10/GettyImages-1247639634.jpg?w=2560&h=1440&crop=1">
+    <img src="https://ktla.com/wp-content/uploads/sites/4/2023/10/GettyImages-1247639634.jpg?w=2560&h=1440&crop=1" alt="California" width="600" height="400">
+  </a>
+  <div class="desc">Califonia is literally perfect I love it here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?w=1440&h=810&fit=crop&auto=format&q=75.">
+    <img src="https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?w=1440&h=810&fit=crop&auto=format&q=75" alt="Dubai" width="600" height="400">
+  </a>
+  <div class="desc">My dream is to live here comfortably.</div>
+</div>
+
+
+
