@@ -100,10 +100,10 @@ Flags Source - Wikipedia Images
 
 My life so far
 Here are all the things that I have done before coming here and what I did in those places. 
-<h1>CSS font-family</h1>
+
 <p class="p1"></p>India
  - I have lived here for around 7 months and I started the foundation of my education here
- - I developed my love for Badminton and Soccer and learnt the necessary skills needed to su
+ - I developed my love for Badminton and Soccer and learnt the necessary skills needed to succeed. </p >
 <p class="p2">Singapore
  - I have lived here for the majority of my life and have grown up with many different and cool people. 
  - I have also developed my badminton skills and have grown to a significant level and most of my school education was also done here and it is my favorite place to visit right after Europe
