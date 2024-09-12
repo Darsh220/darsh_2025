@@ -15,8 +15,3 @@ This is my page
   <li style="float:right"><a class="active" href="https://darsh220.github.io/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html">Github Playground</a></li>
 </ul>
 
-
-https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html
-https://darsh220.github.io/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html
-https://darsh220.github.io/darsh_2025/"
-https://darsh220.github.io/darsh_2025/about/
