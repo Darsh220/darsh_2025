@@ -44,15 +44,83 @@ li a:hover {
 </ul>
 
 
+# Guess the Number Game
 
+<p>Guess a number between 1 and 100:</p>
+
+<input type="number" id="guessInput" min="1" max="100">
+<button id="guessButton" class="button">Submit Guess</button>
+<p id="feedback"></p>
+<button id="restartButton" class="button" style="display:none;">Play Again</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const guessInput = document.getElementById('guessInput');
+    const guessButton = document.getElementById('guessButton');
+    const feedback = document.getElementById('feedback');
+    const restartButton = document.getElementById('restartButton');
+
+    let secretNumber;
+    let attempts = 0;
+
+    function startNewGame() {
+        secretNumber = Math.floor(Math.random() * 100) + 1;
+        attempts = 0;
+        feedback.textContent = '';
+        guessInput.value = '';
+        guessInput.disabled = false;
+        guessButton.disabled = false;
+        restartButton.style.display = 'none';
+    }
+
+    function checkGuess() {
+        const userGuess = parseInt(guessInput.value, 10);
+        if (isNaN(userGuess) || userGuess < 1 || userGuess > 100) {
+            feedback.textContent = 'Please enter a number between 1 and 100.';
+            return;
+        }
+
+        attempts++;
+
+        if (userGuess === secretNumber) {
+            feedback.textContent = `Congratulations! You guessed the number in ${attempts} attempts.`;
+            guessInput.disabled = true;
+            guessButton.disabled = true;
+            restartButton.style.display = 'inline-block';
+        } else if (userGuess < secretNumber) {
+            feedback.textContent = 'Too low! Try again.';
+        } else {
+            feedback.textContent = 'Too high! Try again.';
+        }
+    }
+
+    guessButton.addEventListener('click', checkGuess);
+    restartButton.addEventListener('click', startNewGame);
+
+    startNewGame(); // Initialize the game
+});
+</script>
 
 <style>
-body {
-  background-image: url("https://i.sstatic.net/wLSu3.jpg");
+/* Add some basic styles */
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: #0056b3;
 }
 </style>
 
-p>
+
 
 
 
