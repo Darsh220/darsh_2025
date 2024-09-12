@@ -133,7 +133,7 @@ div.desc {
   <a target="_blank" href="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg">
     <img src="https://www.thoughtco.com/thmb/C1Nbj1M6jZK9Xm_lgD1ndDPPAk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/singapore--garden-by-the-bay--supertree-grove-638256268-fa59e7e78b6449aaa40f68eafe6ff1a1.jpg" alt="Singapore" width="600" height="400">
   </a>
-  <div class="desc">Singapore is considered one of the best</div>
+  <div class="desc">Singapore is the best</div>
 </div>
 
 <div class="gallery">
