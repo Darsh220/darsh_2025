@@ -9,6 +9,7 @@ hide: true
   <li><a href="https://darsh220.github.io/darsh_2025/about/">About</a></li>
   <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a></li>
    <li><a href="https://darsh220.github.io/darsh_2025/snake/">Snake Game</a></li>
+   <li><a href="https://darsh220.github.io/darsh_2025/Games/">Games</a></li>
 
 </ul>
 This is my page 
