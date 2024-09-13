@@ -7,6 +7,7 @@ permalink: /Games/
 
 Welcome to Tic Tac Toe!
 
+# Tic, Tac Toe
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -128,5 +129,81 @@ function resetGame() {
     cells.forEach(cell => cell.textContent = '');
     currentPlayer = 'X';
     status.textContent = `Player ${currentPlayer}'s turn`;
+}
+</script>
+
+
+Welcome to Rock Paper Scissors!
+
+# Rock, Paper, Scissors Game
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#game {
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+</style>
+
+<div id="game">
+    <h1>Rock, Paper, Scissors</h1>
+    <button onclick="play('rock')">Rock</button>
+    <button onclick="play('paper')">Paper</button>
+    <button onclick="play('scissors')">Scissors</button>
+    <p id="result">Make your move!</p>
+</div>
+
+<script>
+function play(playerChoice) {
+    const choices = ['rock', 'paper', 'scissors'];
+    const computerChoice = choices[Math.floor(Math.random() * 3)];
+    const resultElement = document.getElementById('result');
+
+    let result = '';
+    if (playerChoice === computerChoice) {
+        result = `It's a tie! Both chose ${playerChoice}.`;
+    } else if (
+        (playerChoice === 'rock' && computerChoice === 'scissors') ||
+        (playerChoice === 'paper' && computerChoice === 'rock') ||
+        (playerChoice === 'scissors' && computerChoice === 'paper')
+    ) {
+        result = `You win! ${playerChoice} beats ${computerChoice}.`;
+    } else {
+        result = `You lose! ${computerChoice} beats ${playerChoice}.`;
+    }
+
+    resultElement.textContent = result;
 }
 </script>
