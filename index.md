@@ -4,7 +4,12 @@ title: Welcome To My Page
 description: Home Page
 hide: true
 ---
-
+<ul>
+  <li><a class="active" href="https://darsh220.github.io/darsh_2025/">Home</a></li>
+  <li><a href="https://darsh220.github.io/darsh_2025/about/">About</a></li>
+  <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a></li>
+  <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html">Cool thing</a></li>
+</ul>
 This is my page 
 <img src="https://media.tenor.com/WuNndB5UddwAAAAM/mario-monday.gif" alt="MARIO GIF">
 
@@ -35,13 +40,6 @@ li a:hover {
 }
 </style>
 
-
-<ul>
-  <li><a class="active" href="https://darsh220.github.io/darsh_2025/">Home</a></li>
-  <li><a href="https://darsh220.github.io/darsh_2025/about/">About</a></li>
-  <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a></li>
-  <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html">Cool thing</a></li>
-</ul>
 
 
 # Guess the Number Game
