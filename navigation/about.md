@@ -110,14 +110,12 @@ Here are all the things that I have done before coming here and what I did in th
 <p class="p2">Singapore </p >
 
  - I have lived here for the majority of my life and have grown up with many different and cool people. 
- - I have also developed my badminton skills and have grown to a significant level and most of my school education was also done here and it is my favorite place to visit right after Europe
- - The food in singapore is TOP TIER!!! and is very very popular and this was also the best part of my life in singapore. 
+ 
 
 <p class="p3">California </p >
 
  - I have just recently moved to here and I love the weather as it is sunny and pleasant almost all year round. 
- - I really like the people I met and enjoy the vast amount of opportunities here.
- - I also became an advanced level badminton player and was able to culminate my skills here.
+
 
 
 
