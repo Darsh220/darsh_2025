@@ -5,7 +5,7 @@ description: Snake Game
 permalink: /snake/
 ---
 
-Welcome to the Snake Game!!! (Use W/A/S/D or Arrow keys to control the snake.)
+# Welcome to the Snake Game!!! (Use W/A/S/D or Arrow keys to control the snake.)
 <canvas id="snakeGame" width="400" height="400"></canvas>
 <style>
   #snakeGame {

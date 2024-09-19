@@ -4,18 +4,64 @@ title: Welcome To My Page
 description: Home Page
 hide: true
 ---
-<ul>
-  <li><a class="active" href="https://darsh220.github.io/darsh_2025/">Home</a></li>
-  <li><a href="https://darsh220.github.io/darsh_2025/about/">About</a></li>
-  <li><a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a></li>
-   <li><a href="https://darsh220.github.io/darsh_2025/snake/">Snake Game</a></li>
-   <li><a href="https://darsh220.github.io/darsh_2025/Games/">Games</a></li>
-  <li><a class="active" href="https://darsh220.github.io/darsh_2025/planning">Planning</a></li>
+# Welcome to My Homepage!
 
+## Explore My Work and Projects
+
+[Get Started](#)
+
+---
+
+### Navigation
+
+<ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; width: 200px;">
+    <li style="margin-bottom: 10px;">
+        <a href="#" style="text-decoration: none; color: #003366;">Home</a>
+    </li>
+    <li style="margin-bottom: 10px;">
+        <a href="#" style="text-decoration: none; color: #003366;">About</a>
+        <ul style="list-style-type: none; padding-left: 20px; display: none;">
+            <li><a href="#" style="text-decoration: none; color: #555;">Our Team</a></li>
+            <li><a href="#" style="text-decoration: none; color: #555;">Our History</a></li>
+        </ul>
+    </li>
+    <li style="margin-bottom: 10px;">
+        <a href="#" style="text-decoration: none; color: #003366;">Services</a>
+        <ul style="list-style-type: none; padding-left: 20px; display: none;">
+            <li><a href="#" style="text-decoration: none; color: #555;">Web Development</a></li>
+            <li><a href="#" style="text-decoration: none; color: #555;">Graphic Design</a></li>
+        </ul>
+    </li>
+    <li style="margin-bottom: 10px;">
+        <a href="#" style="text-decoration: none; color: #003366;">Contact</a>
+    </li>
 </ul>
-This is my page 
-<img src="https://media.tenor.com/WuNndB5UddwAAAAM/mario-monday.gif" alt="MARIO GIF">
 
+<script>
+    // Simple JavaScript to toggle the submenu
+    document.querySelectorAll('li').forEach(item => {
+        item.addEventListener('click', event => {
+            const submenu = item.querySelector('ul');
+            if (submenu) {
+                submenu.style.display = submenu.style.display === 'none' || submenu.style.display === '' ? 'block' : 'none';
+            }
+        });
+    });
+</script>
+
+---
+
+
+
+<div style="background-image: url('https://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-2.jpg'); background-size: cover; color: white; text-align: center; padding: 50px;">
+  <h1>Welcome to My Homepage!</h1>
+  <p>Explore my work and projects.</p>
+  <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #808080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">About</a>
+</div>
+
+
+<img src="https://media.tenor.com/WuNndB5UddwAAAAM/mario-monday.gif" alt="MARIO GIF">
+---
 
 <style>
 ul {
@@ -120,5 +166,15 @@ document.addEventListener('DOMContentLoaded', function() {
     background-color: #0056b3;
 }
 </style>
+
+
+
+
+
+
+
+
+
+
 
 
