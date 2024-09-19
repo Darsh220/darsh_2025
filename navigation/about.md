@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
@@ -176,4 +176,15 @@ div.desc {
 </div>
 
 
+
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="Darsh220/darsh_2025"
+        issue-term="/darsh_2025"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
