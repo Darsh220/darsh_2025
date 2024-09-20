@@ -170,6 +170,51 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
+<h2>Theme Toggle</h2>
+<button class="theme-button" onclick="toggleTheme()">Toggle Theme</button>
+
+<p>This is a simple theme toggle example. Click the button to change the theme!</p>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        transition: background-color 0.3s, color 0.3s;
+    }
+    .light {
+        background-color: white;
+        color: black;
+    }
+    .dark {
+        background-color: #333;
+        color: white;
+    }
+    .theme-button {
+        background-color: lightblue;
+        color: white;
+        padding: 10px 15px;
+        margin: 5px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .theme-button:hover {
+        background-color: #45a049;
+    }
+</style>
+
+<script>
+    let isDarkTheme = false;
+
+    function toggleTheme() {
+        isDarkTheme = !isDarkTheme;
+        document.body.className = isDarkTheme ? 'dark' : 'light';
+    }
+
+    // Set initial theme
+    document.body.className = 'light';
+</script>
+
+
 
 
 
