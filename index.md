@@ -56,14 +56,14 @@ hide: true
 
 
 
-<div style="background-image: url('https://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-2.jpg'); background-size: cover; color: white; text-align: center; padding: 50px;">
+<div style="background-image: url('https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0='); background-size: cover; color: white; text-align: center; padding: 50px;">
   <h1>Welcome to My Homepage!</h1>
   <p>Explore my work and projects.</p>
   <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #808080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">About</a>
 </div>
 
 
-<img src="https://media.tenor.com/WuNndB5UddwAAAAM/mario-monday.gif" alt="MARIO GIF">
+
 ---
 
 <style>
