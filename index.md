@@ -6,12 +6,7 @@ hide: true
 ---
 
 
-
-
-
----
-
-<h2>Welcome to my webpage</h2>
+<h2>Welcome Message</h2>
 <div id="typingDisplay"></div>
 
 <style>
@@ -76,6 +71,7 @@ hide: true
 
 
 
+---
 
 ### Navigation
 
