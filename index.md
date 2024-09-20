@@ -170,25 +170,18 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
-<h2>Theme Toggle</h2>
-<button class="theme-button" onclick="toggleTheme()">Toggle Theme</button>
 
-<p>This is a simple theme toggle example. Click the button to change the theme!</p>
+<h2>Random Color Background</h2>
+<button class="color-button" onclick="changeColor()">Change Background Color</button>
+
+<p>This button changes the background color randomly and keeps it across pages!</p>
 
 <style>
     body {
         font-family: Arial, sans-serif;
-        transition: background-color 0.3s, color 0.3s;
+        transition: background-color 0.3s;
     }
-    .light {
-        background-color: white;
-        color: black;
-    }
-    .dark {
-        background-color: #333;
-        color: white;
-    }
-    .theme-button {
+    .color-button {
         background-color: lightblue;
         color: white;
         padding: 10px 15px;
@@ -197,22 +190,38 @@ document.addEventListener('DOMContentLoaded', function() {
         border-radius: 5px;
         cursor: pointer;
     }
-    .theme-button:hover {
+    .color-button:hover {
         background-color: #45a049;
     }
 </style>
 
 <script>
-    let isDarkTheme = false;
-
-    function toggleTheme() {
-        isDarkTheme = !isDarkTheme;
-        document.body.className = isDarkTheme ? 'dark' : 'light';
+    // Function to generate a random color
+    function getRandomColor() {
+        const letters = '0123456789ABCDEF';
+        let color = '#';
+        for (let i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
     }
 
-    // Set initial theme
-    document.body.className = 'light';
+    // Function to change the background color and store it in localStorage
+    function changeColor() {
+        const newColor = getRandomColor();
+        document.body.style.backgroundColor = newColor;
+        localStorage.setItem('bgColor', newColor);
+    }
+
+    // Set the background color on page load
+    window.onload = function() {
+        const savedColor = localStorage.getItem('bgColor');
+        if (savedColor) {
+            document.body.style.backgroundColor = savedColor;
+        }
+    };
 </script>
+
 
 
 
