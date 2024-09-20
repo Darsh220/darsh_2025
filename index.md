@@ -5,72 +5,11 @@ description: Home Page
 hide: true
 ---
 
-
-<h2>Welcome Message</h2>
-<div id="typingDisplay"></div>
-
-<style>
-    body {
-        background-color: #f0f8ff; /* Light background */
-        font-family: Arial, sans-serif;
-    }
-    #typingDisplay {
-        font-size: 36px;
-        font-weight: bold;
-        color: #4a90e2; /* Text color */
-        border-right: 3px solid #4a90e2; /* Cursor effect */
-        white-space: nowrap;
-        overflow: hidden;
-        width: 0; /* Initial width for typing effect */
-        animation: typing 4s steps(10, end) forwards, blink-caret 0.75s step-end infinite;
-    }
-
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-    }
-
-    @keyframes blink-caret {
-        from, to { border-color: transparent; }
-        50% { border-color: #4a90e2; }
-    }
-</style>
-
-<script>
-    const texts = ["Welcome", "to My GitHub Pages!", "Explore and Enjoy!"];
-    const display = document.getElementById("typingDisplay");
-    let textIndex = 0;
-    let charIndex = 0;
-    let typingSpeed = 200; // Speed of typing
-
-    function type() {
-        if (charIndex < texts[textIndex].length) {
-            display.innerHTML += texts[textIndex].charAt(charIndex);
-            charIndex++;
-            setTimeout(type, typingSpeed);
-        } else {
-            setTimeout(() => {
-                erase();
-            }, 2000); // Wait before erasing
-        }
-    }
-
-    function erase() {
-        if (charIndex > 0) {
-            display.innerHTML = texts[textIndex].substring(0, charIndex - 1);
-            charIndex--;
-            setTimeout(erase, typingSpeed / 2); // Speed of erasing
-        } else {
-            textIndex = (textIndex + 1) % texts.length; // Cycle through texts
-            setTimeout(type, 500); // Wait before typing next text
-        }
-    }
-
-    window.onload = type; // Start typing when the page loads
-</script>
-
-
-
+<div style="background-image: url('https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0='); background-size: cover; color: white; text-align: center; padding: 50px;">
+  <h1>Welcome to My Homepage!</h1>
+  <p>Explore my work and projects.</p>
+  <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #808080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">About</a>
+</div>
 ---
 
 ### Navigation
@@ -116,12 +55,6 @@ hide: true
 ---
 
 
-
-<div style="background-image: url('https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0='); background-size: cover; color: white; text-align: center; padding: 50px;">
-  <h1>Welcome to My Homepage!</h1>
-  <p>Explore my work and projects.</p>
-  <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #808080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">About</a>
-</div>
 
 
 
