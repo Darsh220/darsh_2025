@@ -8,46 +8,49 @@ hide: true
 
 ## Explore My Work and Projects
 
-[Get Started](#)
+[Get Started]()
 
 ---
 
 ### Navigation
 
-<ul style="list-style-type: none; padding: 0; display: flex; flex-direction: column; width: 200px;">
-    <li style="margin-bottom: 10px;">
-        <a href="#" style="text-decoration: none; color: #003366;">Home</a>
-    </li>
-    <li style="margin-bottom: 10px;">
-        <a href="#" style="text-decoration: none; color: #003366;">About</a>
-        <ul style="list-style-type: none; padding-left: 20px; display: none;">
-            <li><a href="#" style="text-decoration: none; color: #555;">Our Team</a></li>
-            <li><a href="#" style="text-decoration: none; color: #555;">Our History</a></li>
-        </ul>
-    </li>
-    <li style="margin-bottom: 10px;">
-        <a href="#" style="text-decoration: none; color: #003366;">Services</a>
-        <ul style="list-style-type: none; padding-left: 20px; display: none;">
-            <li><a href="#" style="text-decoration: none; color: #555;">Web Development</a></li>
-            <li><a href="#" style="text-decoration: none; color: #555;">Graphic Design</a></li>
-        </ul>
-    </li>
-    <li style="margin-bottom: 10px;">
-        <a href="#" style="text-decoration: none; color: #003366;">Contact</a>
-    </li>
-</ul>
+<style>
+  .submenu {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg, #6e6e6e, #4a4a4a);
+    border-radius: 8px;
+    padding: 12px;
+    margin: 20px 0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
 
-<script>
-    // Simple JavaScript to toggle the submenu
-    document.querySelectorAll('li').forEach(item => {
-        item.addEventListener('click', event => {
-            const submenu = item.querySelector('ul');
-            if (submenu) {
-                submenu.style.display = submenu.style.display === 'none' || submenu.style.display === '' ? 'block' : 'none';
-            }
-        });
-    });
-</script>
+  .submenu a {
+    color: white;
+    padding: 14px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 5px;
+  }
+
+  .submenu a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.1);
+  }
+</style>
+
+<div class="submenu">
+  <a href="https://darsh220.github.io/darsh_2025/about/">About</a>
+  <a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a>
+  <a href="https://darsh220.github.io/darsh_2025/snake/">Snake Game👌</a>
+  <a href="https://darsh220.github.io/darsh_2025/planning">Planning</a>
+  <a href="https://darsh220.github.io/darsh_2025/cookieclicker">Cookie Clicker</a>
+</div>
+
+
 
 ---
 
