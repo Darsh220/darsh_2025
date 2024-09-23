@@ -8,8 +8,6 @@ permalink: /snake/
 <h1>Welcome to the Snake Game!!! (Use W/A/S/D or Arrow keys to control the snake.)</h1>
 <canvas id="snakeGame" width="400" height="400"></canvas>
 <button id="startButton" onclick="startGame()">Start Game</button>
-<audio id="eatSound" src="eat.mp3" preload="auto"></audio>
-<audio id="gameOverSound" src="gameover.mp3" preload="auto"></audio>
 <style>
     #snakeGame {
         border: 1px solid black;
@@ -105,13 +103,11 @@ permalink: /snake/
 
         // Game Over conditions
         if (head.x < 0 || head.x >= 400 || head.y < 0 || head.y >= 400 || collision(head, snake)) {
-            document.getElementById('gameOverSound').play();
             clearInterval(game);
             alert('Game Over! Your score: ' + score);
             startGame();  // Restart the game
         }
         if (head.x === food.x && head.y === food.y) {
-            document.getElementById('eatSound').play();
             score++;
             food = generateFood();
             increaseLevel();
