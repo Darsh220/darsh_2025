@@ -55,7 +55,7 @@ hide: true
       <a href="http://127.0.0.1:4100/darsh_2025/planning/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Planning Document</a>
     </div>
     <div style="margin: 10px;">
-      <a href="https://your-github-pages-link.com/random4" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Blog Sprint 2</a>
+      <a href="https://darsh220.github.io/darsh_2025/2024/10/15/sprint2_blog_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Blog Sprint 2</a>
     </div>
   </div>
   </div>
