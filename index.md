@@ -148,23 +148,23 @@ document.addEventListener('DOMContentLoaded', function() {
   </tr>
   <tr>
     <td>3.4</td>
-    <td><a href="https://example.com/responsive-design">Lesson 3.4</a></td>
+    <td><a href="http://127.0.0.1:4100/darsh_2025/2024/10/11/3.4_IPYNB_2_.html">Lesson 3.4</a></td>
   </tr>
   <tr>
     <td>3.5</td>
-    <td><a href="https://example.com/intro-to-git">Lesson 3.5</a></td>
+    <td><a href="http://127.0.0.1:4100/darsh_2025/2024/10/09/3.3_3.5_IPYNB_2_.html">Lesson 3.5</a></td>
   </tr>
   <tr>
     <td>3.6</td>
-    <td><a href="https://example.com/working-with-apis">Lesson 3.6</a></td>
+    <td><a href="http://127.0.0.1:4100/darsh_2025/2024/10/10/3.6_IPYNB_2_.html">Lesson 3.6</a></td>
   </tr>
   <tr>
     <td>3.7</td>
-    <td><a href="https://example.com/web-accessibility">Lesson 3.7</a></td>
+    <td><a href="http://127.0.0.1:4100/darsh_2025/2024/10/11/3.7_IPYNB_2_.html">Lesson 3.7</a></td>
   </tr>
   <tr>
     <td>3.8</td>
-    <td><a href="https://example.com/building-web-forms">Lesson 3.8</a></td>
+    <td><a href="http://127.0.0.1:4100/darsh_2025/2024/10/03/3.8_IPYNB_2_.html">Lesson 3.8</a></td>
   </tr>
 
 
