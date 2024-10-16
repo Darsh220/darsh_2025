@@ -5,62 +5,72 @@ description: Home Page
 hide: true
 ---
 
-<div style="background-image: url('https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0='); background-size: cover; color: white; text-align: center; padding: 50px;">
+<div style="background-image: url('https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0='); background-size: cover; color: white; text-align: center; padding: 30px; max-width: 600px; margin: 0 auto;">
   <h1>Welcome to My Homepage!</h1>
   <p>Explore my work and projects.</p>
-  <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #808080; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">About</a>
 </div>
----
 
-### Navigation
+
+
+<div class="submenu" style="max-width: 80%; margin: 0 auto; padding: 20px; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/about/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">About</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Github playground</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/2024/09/19/Hacks_Frontend_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Frontend</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/snake/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Snake</a>
+    </div>
+  </div>
+</div>
 
 <style>
   .submenu {
-    display: flex;
-    justify-content: center;
-    background: linear-gradient(90deg, #6e6e6e, #4a4a4a);
-    border-radius: 8px;
-    padding: 12px;
-    margin: 20px 0;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 1024px; /* Adjust width here to your desired value */
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
   }
 
-  .submenu a {
-    color: white;
-    padding: 14px 20px;
-    margin: 0 10px;
-    text-decoration: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
-    transition: background-color 0.3s, transform 0.3s;
-    border-radius: 5px;
-  }
-
-  .submenu a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    transform: scale(1.1);
+  div a:hover {
+    transform: translateY(-5px); /* Slight movement up */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
   }
 </style>
 
-<div class="submenu">
-  <a href="https://darsh220.github.io/darsh_2025/about/">About</a>
-  <a href="https://darsh220.github.io/darsh_2025/2024/09/11/PlayingwithJupyterNotebooks_IPYNB_2_.html">Hacks</a>
-  <a href="https://darsh220.github.io/darsh_2025/snake/">Snake Game👌</a>
-  <a href="https://darsh220.github.io/darsh_2025/planning">Planning</a>
-  <a href="https://darsh220.github.io/darsh_2025/cookieclicker">Cookie Clicker</a>
-</div>
+<div style="text-align: center; margin: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/cookieclicker/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Cookie Clicker</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/2024/09/23/Sprint2selfteaching_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Team Teach Lesson</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="http://127.0.0.1:4100/darsh_2025/planning/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Planning Document</a>
+    </div>
+    <div style="margin: 10px;">
+      <a href="https://your-github-pages-link.com/random4" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Blog Sprint 2</a>
+    </div>
+  </div>
+  </div>
+
+<style>
+  div a:hover {
+    transform: translateY(-5px); /* Slight movement up */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
+  }
+</style>
+
 
 
 
 ---
-
-
-
-
-
----
-
-
 
 # Guess the Number Game
 
