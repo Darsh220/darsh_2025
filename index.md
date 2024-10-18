@@ -15,16 +15,16 @@ hide: true
 <div class="submenu" style="max-width: 80%; margin: 0 auto; padding: 20px; text-align: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin: 10px;">
-      <a href="http://127.0.0.1:4100/darsh_2025/about/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">About</a>
+      <a href="https://darsh220.github.io/darsh_2025/about/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">About</a>
     </div>
     <div style="margin: 10px;">
-      <a href="http://127.0.0.1:4100/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Github playground</a>
+      <a href="https://darsh220.github.io/darsh_2025/2024/09/11/GitHub_Playground_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Github playground</a>
     </div>
     <div style="margin: 10px;">
-      <a href="http://127.0.0.1:4100/darsh_2025/2024/09/19/Hacks_Frontend_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Frontend</a>
+      <a href="https://darsh220.github.io/darsh_2025/2024/09/19/Hacks_Frontend_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Frontend</a>
     </div>
     <div style="margin: 10px;">
-      <a href="http://127.0.0.1:4100/darsh_2025/snake/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Snake</a>
+      <a href="https://darsh220.github.io/darsh_2025/snake/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Snake</a>
     </div>
   </div>
 </div>
@@ -46,13 +46,13 @@ hide: true
 <div style="text-align: center; margin: 20px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin: 10px;">
-      <a href="" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Cookie Clicker</a>
+      <a href="https://darsh220.github.io/darsh_2025/cookieclicker/" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Cookie Clicker</a>
     </div>
     <div style="margin: 10px;">
-      <a href="" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Team Teach Lesson</a>
+      <a href="https://darsh220.github.io/darsh_2025/2024/09/25/big-idea-3-10-3_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Team Teach Lesson</a>
     </div>
     <div style="margin: 10px;">
-      <a href="" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Planning </a>
+      <a href="https://darsh220.github.io/darsh_2025/2024/10/18/Planning_Document_IPYNB_2_.html " style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Planning </a>
     </div>
     <div style="margin: 10px;">
       <a href="https://darsh220.github.io/darsh_2025/2024/10/15/sprint2_blog_IPYNB_2_.html" style="background-color: #777; color: white; padding: 12px 24px; text-decoration: none; border-radius: 20px; font-size: 18px; display: inline-block; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s, box-shadow 0.3s;">Blog Sprint 2</a>
