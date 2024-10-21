@@ -36,3 +36,13 @@ Each student has contributed uniquely, enhancing our learning through peer teach
 | Original and Creative    | 10            | 0.85       | Our ideas are our own but the theme could be fixed for sure          |
 | **Total**               | **90**        |    5.28       |              |
 
+### Summary of the Checklist
+#### Grading Plan
+- I believe our grading checklist and the process behind it is unbiased and fair and the requirements along with the grading weightage help our peers understand what they were able to achieve and what they need to improve. 
+#### Personal Contributions
+- I have contributed to the 3.10.3 lesson which mainly talked about List Functions. Through these lessons I was able to understand new concepts such as making the use of an empty list and appending elements into it. This can be used to make useful things such as Tasks Planners and Schedules. 
+#### Relevancy to College Board 
+- Most concepts learnt in this class are useful and I have made summaries of each lesson so that I can refer to them and use them for my studies for the AP exam as a refresher. The lesson summaries are listed in the link above for each lessons with definitve examples. 
+
+### Key Takeaways 
+- Throughout the lessons, I was able to understand and learn CSS and HTML as a beginner and I was also able to learn basic coding and web page development which has helped me develop as a problem solver and a critical thinker in this class. 
