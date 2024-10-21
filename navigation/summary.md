@@ -27,12 +27,12 @@ Each student has contributed uniquely, enhancing our learning through peer teach
 
 | **Assignment**          | **Weightage** | **Grade** | **Comments** |
 |-------------------------|---------------|-----------|--------------|
-| [College Board Coverage](https://darsh220.github.io/darsh_2025/2024/10/15/sprint2_blog_IPYNB_2_.html)  | 20            | TBD       | TBD          |
-| Python Examples         | 15            | TBD       | TBD          |
-| JavaScript Examples | 15            | TBD       | TBD          |
-| [Popcorn Hack Usage](https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-10)    | 10            | TBD       | TBD          |
-| [Homework](https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-10-3)                | 10            | TBD       | TBD          |
-| Grading Plan           | 10            | TBD       | TBD          |
-| Original and Creative    | 10            | TBD       | TBD          |
-| **Total**               | **90**        |           |              |
+| [College Board Coverage](https://darsh220.github.io/darsh_2025/2024/10/15/sprint2_blog_IPYNB_2_.html)  | 20            | 0.84       | Most of the code covered the concepts needed and provide a good representation of a solid understanding in the class but could have been more descriptive          |
+| Python Examples         | 15            | 0.9       | I have many python examples which show my understanding in the class and how I have implemented key concepts into my code to produce a useful output.           |
+| JavaScript Examples | 15            | 0.9       | I have a few javascript examples which are definitive and also show my overall understanding of javascript in the class.           |
+| [Popcorn Hack Usage](https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-10)    | 10            | 0.89       | My popcorn hack usage is good and I have created a useful popcorn hack which can help people manage tasks           |
+| [Homework](https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-10-3)                | 10            | 0.83       | TBD          |
+| Grading Plan           | 10            | 0.9       | Our Grading Plan is definitive and unbiased and is a representation of our fairness and honesty when grading homeowork assignments from our peers          |
+| Original and Creative    | 10            | 0.85       | Our ideas are our own but the theme could be fixed for sure          |
+| **Total**               | **90**        |    5.28       |              |
 

@@ -19,7 +19,7 @@ hide: true
     <a href="https://darsh220.github.io/darsh_2025/snake/">Snake</a>
     <a href="https://darsh220.github.io/darsh_2025/cookieclicker/">Cookie Clicker</a>
     <a href="https://darsh220.github.io/darsh_2025/2024/09/25/big-idea-3-10-3_IPYNB_2_.html">Team Teach Lesson</a>
-    <a href="https://darsh220.github.io/darsh_2025/2024/10/18/Planning_Document_IPYNB_2_.html">Planning</a>
+    <a href="https://darsh220.github.io/darsh_2025/summary/">Summary</a>
     <a href="https://darsh220.github.io/darsh_2025/2024/10/15/sprint2_blog_IPYNB_2_.html">Blog Sprint 2</a>
   </div>
 </div>
