@@ -42,3 +42,6 @@ Each student has contributed uniquely, enhancing our learning through peer teach
 
 ### Key Takeaways 
 - Throughout the lessons, I was able to understand and learn CSS and HTML as a beginner and I was also able to learn basic coding and web page development which has helped me develop as a problem solver and a critical thinker in this class. 
+
+### Reflection
+- My journey through the CSP is a reflection of the information that I have taken away from the classes and the lessons that we have done so far. Through important lessons and checkpoints such as the lesson integrations and lesson building for the team teach lessons. The grading and feedback has helped me understand my mistakes and have also helped me improve my code as a person. 
